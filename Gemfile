@@ -21,6 +21,7 @@ gem 'devise'
 gem 'toastr-rails'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
+gem 'omniauth-facebook'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
