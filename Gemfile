@@ -19,6 +19,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'materialize-sass'
 gem 'devise'
 gem 'toastr-rails'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
