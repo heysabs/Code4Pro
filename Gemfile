@@ -25,6 +25,7 @@ gem 'omniauth-facebook'
 
 gem 'activeadmin', '~> 1.0.0.pre4'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'active_skin'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
